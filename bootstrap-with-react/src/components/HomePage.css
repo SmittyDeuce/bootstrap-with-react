@@ -1,0 +1,16 @@
+#container {
+    background-color: #1D1160;
+    color: #00788C;
+    min-height: 100vh;
+    padding: 20px;
+    border: 12px solid #A1A1A4;
+    border-radius: 20px;
+}
+
+#shop-now-button {
+    box-shadow: 2px 3px 2px #00788C;
+}
+
+h1 {
+    color: #00788C;
+}
